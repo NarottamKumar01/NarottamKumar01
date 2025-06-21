@@ -35,14 +35,6 @@
 
 ## 🚀 Featured Projects
 
-### 🛍️ [Nexostop – Sneaker Streetwear Website](https://github.com/NarottamKumar01/Nexostop)
-> A premium streetwear e-commerce site with dark/light mode toggle, login/signup, dashboard, order history, and more!
-
-**Tech:** HTML, CSS, JS  
-**Features:** Toggle theme, dashboard, responsive UI, payment section
-
----
-
 ### ☀️ [Weather App](https://github.com/NarottamKumar01/Weather-App)
 > Displays live weather using geolocation with custom icons and weather condition text.
 
