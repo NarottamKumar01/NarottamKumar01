@@ -2,9 +2,19 @@
 
 # 👋 Hi, I'm Narottam Kumar
 
-### Cybersecurity Enthusiast | AI & ML Learner | Full-Stack Developer | Open Source Contributor
+### 🔐 Cybersecurity Enthusiast | 🤖 AI/ML Learner | 💻 Developer | 🌐 Open Source Contributor
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+Cybersecurity+%F0%9F%94%90;Building+AI-powered+applications+%F0%9F%A4%96;Learning+and+Contributing+to+Open+Source+%F0%9F%9A%80;Turning+Ideas+into+Real+Projects+%F0%9F%92%BB" alt="Typing SVG" />
+<p>
+  <a href="https://github.com/NarottamKumar01">
+    <img src="https://img.shields.io/github/followers/NarottamKumar01?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/NarottamKumar01?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-27-blue?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/narottam-kumar-9a0b2730b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 </div>
 
@@ -12,17 +22,19 @@
 
 ## 👨‍💻 About Me
 
-I'm **Narottam Kumar**, a B.Tech student passionate about **Cybersecurity, Artificial Intelligence, and Software Development**.
+I'm **Narottam Kumar**, a B.Tech student at **Lovely Professional University (LPU)** passionate about building practical solutions at the intersection of **Cybersecurity, Artificial Intelligence, and Software Development**.
 
-I enjoy building practical projects that combine technology with real-world problems. Currently, I'm focusing on strengthening my foundations in cybersecurity while exploring **AI, Machine Learning, Deep Learning, LLMs, and AI-powered applications**.
+I enjoy turning ideas into working projects and continuously exploring new technologies through **projects, hackathons, internships, and open-source contributions**.
 
 - 🎓 B.Tech Student at **Lovely Professional University**
 - 🔐 Interested in **Cybersecurity & Ethical Hacking**
-- 🤖 Exploring **AI, ML, Deep Learning & LLMs**
-- 💻 Building projects with **Python, React & JavaScript**
-- 🌐 Interested in **Web Development**
-- 🚀 Active in **Open Source & Hackathons**
-- 📚 Currently learning and improving every day
+- 🤖 Learning **AI, Machine Learning, Deep Learning & LLMs**
+- 🧠 Exploring **AI Agents & Generative AI**
+- 💻 Building with **Python, JavaScript, React.js & TypeScript**
+- 🌐 Interested in **Web Development & AI-powered applications**
+- 🌱 Active in **Open Source**
+- 🏆 **GSSoC 2026 Contributor**
+- 🚀 Always learning, building and experimenting
 
 ---
 
@@ -31,32 +43,33 @@ I enjoy building practical projects that combine technology with real-world prob
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css" />
 </p>
 
-### ⚛️ Web Development
+### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,tailwind" />
 </p>
 
-### 🤖 AI / ML
+### 🤖 AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-**Currently exploring:**  
-`Artificial Intelligence` • `Machine Learning` • `Deep Learning` • `LLMs` • `Prompt Engineering` • `AI Agents`
+**Currently exploring:**
+
+`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `LLMs` · `Generative AI` · `Prompt Engineering` · `AI Agents`
 
 ### 🔐 Cybersecurity
 
-`Ethical Hacking` • `Web Security` • `Network Security` • `CTF` • `OSINT` • `Linux`
+`Ethical Hacking` · `Web Security` · `Network Security` · `CTF` · `OSINT` · `Linux` · `Threat Detection`
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,flask" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 </p>
 
 ---
@@ -65,12 +78,13 @@ I enjoy building practical projects that combine technology with real-world prob
 
 ### 🛡️ CyberSheild AI
 
-AI-powered cybersecurity project designed to help users identify and understand potential digital threats.
+AI-powered cybersecurity project designed to help users identify, understand, and respond to potential digital threats.
 
-**Focus:**  
-`Cybersecurity` • `AI` • `Threat Detection` • `Explainable AI`
+**Focus:**
 
-🔗 [View Project](https://github.com/NarottamKumar01/CyberSheild-AI)
+`Cybersecurity` · `AI` · `Threat Detection` · `Explainable AI`
+
+🔗 **[View Project](https://github.com/NarottamKumar01/CyberSheild-AI)**
 
 ---
 
@@ -78,63 +92,70 @@ AI-powered cybersecurity project designed to help users identify and understand 
 
 An AI-powered MCQ generation application that helps users generate quizzes from learning content.
 
-**Tech:**  
-`Python` • `Flask` • `Google Gemini API`
+**Tech:**
 
-🔗 [View Project](https://github.com/NarottamKumar01/QuizMind-AI)
+`Python` · `Flask` · `Google Gemini API`
+
+🔗 **[View Project](https://github.com/NarottamKumar01/QuizMind-AI)**
 
 ---
 
-### 🌐 Web Development Projects
+### 🔑 KeyScope
 
-I have also worked on several frontend and web-based projects using:
+A browser-based cybersecurity learning project demonstrating how keyboard events can be captured and analyzed in a controlled educational environment.
 
-`HTML` • `CSS` • `JavaScript` • `React.js`
+**Tech:**
+
+`HTML` · `CSS` · `JavaScript`
+
+🔗 **[View Project](https://github.com/NarottamKumar01/KeyScope-Browser-Based-Keylogger-for-Educational-Purposes)**
+
+---
+
+### 🏫 IIT Jammu Cybersecurity Internship
+
+A learning repository documenting my journey through cybersecurity concepts, Linux, networking, ethical hacking tools, labs and practical exercises.
+
+**Focus:**
+
+`Linux` · `Networking` · `Ethical Hacking` · `Cybersecurity`
+
+🔗 **[View Repository](https://github.com/NarottamKumar01/IIT-Jammu-SummerInternship-CyberSecurity)**
 
 ---
 
 ## 🏆 Experience & Achievements
 
-- 🎯 **GSSoC 2026 Contributor**
-- 🏅 GSSoC 2026 **Open Source & AI/Agents Tracks**
+- 🏅 **GSSoC 2026 Contributor**
+- 🤖 Selected for **GSSoC 2026 AI / Agents Track**
 - 🔐 Completed **Summer School 2026 Internship in Ethical Hacking & Cybersecurity**
-- 🏛️ IIT Jammu Summer School
+- 🏛️ **IIT Jammu Summer School**
 - 💡 Participated in **AI & Cybersecurity Hackathons**
-- 🌱 Actively learning and contributing to Open Source
+- 🌐 Active **Open Source Contributor**
+- 🚀 Building and experimenting with AI-powered applications
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NarottamKumar01&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarottamKumar01&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=NarottamKumar01&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
 ```text
-Cybersecurity
-      ↓
-Network Security → Web Security → Ethical Hacking
-      ↓
-AI / ML
-      ↓
-Deep Learning → LLMs → AI Agents
-      ↓
-Building Real-World Applications
+                    CYBERSECURITY
+                         │
+            ┌────────────┼────────────┐
+            ↓            ↓            ↓
+        Networking    Web Security   Linux
+            │            │            │
+            └────────────┼────────────┘
+                         ↓
+                  Ethical Hacking
+                         │
+                         ↓
+                    AI / ML
+                         │
+          ┌──────────────┼──────────────┐
+          ↓              ↓              ↓
+     Deep Learning      LLMs        AI Agents
+          │              │              │
+          └──────────────┼──────────────┘
+                         ↓
+               Real-World Projects 
