@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Narottam Kumar
+#  Hi, I'm Narottam Kumar
 
-### 🔐 Cybersecurity Enthusiast | 🤖 AI/ML Learner | 💻 Developer | 🌐 Open Source Contributor
+###  Cybersecurity Enthusiast |  AI/ML Learner | 💻 Developer | 🌐 Open Source Contributor
 
 <p>
   <a href="https://github.com/NarottamKumar01">
