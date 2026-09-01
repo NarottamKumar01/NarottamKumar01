@@ -1,18 +1,18 @@
 <div align="center">
 
-#  Hi, I'm Narottam Kumar
+# Narottam Kumar
 
-###  Cybersecurity Enthusiast |  AI/ML Learner | 💻 Developer | 🌐 Open Source Contributor
+### Cybersecurity Enthusiast | AI/LLM Developer | Software Developer | Open Source Contributor
 
 <p>
   <a href="https://github.com/NarottamKumar01">
-    <img src="https://img.shields.io/github/followers/NarottamKumar01?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/NarottamKumar01?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-27-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-NarottamKumar01-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/narottam-kumar-9a0b2730b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Narottam%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:narottam.bxr8845@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -20,142 +20,181 @@
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm **Narottam Kumar**, a B.Tech student at **Lovely Professional University (LPU)** passionate about building practical solutions at the intersection of **Cybersecurity, Artificial Intelligence, and Software Development**.
+I'm **Narottam Kumar**, a B.Tech student focused on building practical applications at the intersection of **Cybersecurity, Artificial Intelligence, and Software Development**.
 
-I enjoy turning ideas into working projects and continuously exploring new technologies through **projects, hackathons, internships, and open-source contributions**.
+My interests include **AI/LLM applications, Retrieval-Augmented Generation (RAG), cybersecurity, ethical hacking, web security, and intelligent automation**.
 
-- 🎓 B.Tech Student at **Lovely Professional University**
-- 🔐 Interested in **Cybersecurity & Ethical Hacking**
-- 🤖 Learning **AI, Machine Learning, Deep Learning & LLMs**
-- 🧠 Exploring **AI Agents & Generative AI**
-- 💻 Building with **Python, JavaScript, React.js & TypeScript**
-- 🌐 Interested in **Web Development & AI-powered applications**
-- 🌱 Active in **Open Source**
-- 🏆 **GSSoC 2026 Contributor**
-- 🚀 Always learning, building and experimenting
+I learn primarily by building projects, participating in hackathons, contributing to open source, and working with real-world technologies.
 
----
+### Current Focus
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,tailwind" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-**Currently exploring:**
-
-`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `LLMs` · `Generative AI` · `Prompt Engineering` · `AI Agents`
-
-### 🔐 Cybersecurity
-
-`Ethical Hacking` · `Web Security` · `Network Security` · `CTF` · `OSINT` · `Linux` · `Threat Detection`
-
-### 🧰 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
+- Artificial Intelligence & Machine Learning
+- Large Language Models (LLMs) and Generative AI
+- Retrieval-Augmented Generation (RAG)
+- AI Agents and Prompt Engineering
+- Cybersecurity & Ethical Hacking
+- Web & Network Security
+- Linux and Security Tools
+- Python-based Application Development
+- Open Source Contribution
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### 🛡️ CyberSheild AI
+### Languages
 
-AI-powered cybersecurity project designed to help users identify, understand, and respond to potential digital threats.
+`Python` `C++` `C` `JavaScript` `TypeScript` `SQL` `HTML` `CSS`
 
-**Focus:**
+### AI / Machine Learning
 
-`Cybersecurity` · `AI` · `Threat Detection` · `Explainable AI`
+`Generative AI` `LLMs` `RAG` `Prompt Engineering` `AI Agents`
+`NLP` `Machine Learning` `Computer Vision` `OCR`
 
-🔗 **[View Project](https://github.com/NarottamKumar01/CyberSheild-AI)**
+### Cybersecurity
 
----
+`Ethical Hacking` `Web Security` `Network Security`
+`Threat Detection` `CTF` `OSINT` `Linux`
 
-### 🧠 QuizMind AI
+### Frameworks & Technologies
 
-An AI-powered MCQ generation application that helps users generate quizzes from learning content.
+`Flask` `React.js` `Streamlit` `REST APIs`
+`LangChain` `BM25` `Vector Databases` `Google Gemini API`
 
-**Tech:**
+### Tools & Platforms
 
-`Python` · `Flask` · `Google Gemini API`
-
-🔗 **[View Project](https://github.com/NarottamKumar01/QuizMind-AI)**
-
----
-
-### 🔑 KeyScope
-
-A browser-based cybersecurity learning project demonstrating how keyboard events can be captured and analyzed in a controlled educational environment.
-
-**Tech:**
-
-`HTML` · `CSS` · `JavaScript`
-
-🔗 **[View Project](https://github.com/NarottamKumar01/KeyScope-Browser-Based-Keylogger-for-Educational-Purposes)**
+`Git` `GitHub` `VS Code` `Linux` `Kali Linux`
 
 ---
 
-### 🏫 IIT Jammu Cybersecurity Internship
+# Featured Projects
 
-A learning repository documenting my journey through cybersecurity concepts, Linux, networking, ethical hacking tools, labs and practical exercises.
+## DocSensei — Adaptive RAG Document Assistant
 
-**Focus:**
+An enterprise-style document intelligence system designed to provide grounded answers from multiple uploaded documents.
 
-`Linux` · `Networking` · `Ethical Hacking` · `Cybersecurity`
+**Key capabilities:**
 
-🔗 **[View Repository](https://github.com/NarottamKumar01/IIT-Jammu-SummerInternship-CyberSecurity)**
+- Built a multi-document RAG pipeline supporting **PDF, DOCX, PPTX, and TXT** files.
+- Implemented **hybrid Dense + BM25 retrieval** to improve document search.
+- Added **cross-encoder reranking** and contextual compression for more relevant responses.
+- Integrated **OCR fallback** for documents requiring text extraction.
+- Implemented conversational memory, query rewriting, document summarization, and automated question generation.
+- Provided **page- and file-level source citations** to improve answer traceability.
 
----
+**Technologies:**  
+`Python` `LLMs` `RAG` `LangChain` `BM25` `OCR` `Vector Database`
 
-## 🏆 Experience & Achievements
-
-- 🏅 **GSSoC 2026 Contributor**
-- 🤖 Selected for **GSSoC 2026 AI / Agents Track**
-- 🔐 Completed **Summer School 2026 Internship in Ethical Hacking & Cybersecurity**
-- 🏛️ **IIT Jammu Summer School**
-- 💡 Participated in **AI & Cybersecurity Hackathons**
-- 🌐 Active **Open Source Contributor**
-- 🚀 Building and experimenting with AI-powered applications
+[View Repository](https://github.com/NarottamKumar01/DocSensei)
 
 ---
 
-## 📚 Currently Learning
+## CyberSheild AI — AI-Powered Cybersecurity Platform
+
+An AI-driven cybersecurity platform designed to help users identify and understand common digital threats.
+
+**Key capabilities:**
+
+- Analyzed **phishing URLs, suspicious websites, scam emails/SMS, and malicious QR codes**.
+- Combined **Generative AI, Machine Learning, Computer Vision, and OCR** for threat analysis.
+- Designed an AI-powered **risk assessment system** to explain potential threats.
+- Generated actionable security recommendations to help users respond to detected risks.
+- Explored the integration of **Explainable AI (XAI)** concepts for security analysis.
+
+**Technologies:**  
+`Python` `Generative AI` `Machine Learning` `Computer Vision` `OCR` `Cybersecurity`
+
+[View Repository](https://github.com/NarottamKumar01/CyberSheild-AI)
+
+---
+
+## QuizMind AI — AI-Powered Quiz Generator
+
+An LLM-powered learning application that generates quizzes from educational content.
+
+**Key capabilities:**
+
+- Built an AI-based MCQ generation workflow using the **Google Gemini API**.
+- Developed a web interface for generating and interacting with AI-generated questions.
+- Integrated backend processing using **Flask**.
+- Focused on applying LLMs to automate educational content generation.
+
+**Technologies:**  
+`Python` `Flask` `Google Gemini API` `Generative AI`
+
+[View Repository](https://github.com/NarottamKumar01/QuizMind-AI)
+
+---
+
+## KeyScope — Keyboard Event Security Demonstration
+
+An educational cybersecurity project demonstrating keyboard-event monitoring and security analysis in a controlled environment.
+
+**Key capabilities:**
+
+- Demonstrated Windows keyboard-event monitoring using **Windows APIs**.
+- Implemented multiple monitoring approaches including **Low-Level Keyboard Hooks** and asynchronous key-state polling.
+- Built a browser-based dashboard for real-time event visualization.
+- Added key-frequency analysis, monitoring controls, and security detection features.
+- Designed specifically for **cybersecurity education and research**.
+
+**Technologies:**  
+`Python` `JavaScript` `Flask` `Windows API` `HTML` `CSS`
+
+[View Repository](https://github.com/NarottamKumar01/KeyScope-Browser-Based-Keylogger-for-Educational-Purposes)
+
+---
+
+# Experience & Programs
+
+### IIT Jammu — Summer School / Cybersecurity
+
+Participated in a cybersecurity-focused summer program involving practical learning in:
+
+`Linux` `Networking` `Ethical Hacking` `Cybersecurity Tools` `Security Labs`
+
+[View Repository](https://github.com/NarottamKumar01/IIT-Jammu-SummerInternship-CyberSecurity)
+
+### GirlScript Summer of Code 2026
+
+Open-source contributor participating in collaborative software development and GitHub-based projects.
+
+---
+
+# Certifications
+
+- **Microsoft Azure AI Essentials Professional Certificate**
+  - Machine Learning
+  - Azure AI Studio
+  - Generative AI
+
+- **Career Essentials in GitHub Professional Certificate**
+  - GitHub
+
+- **freeCodeCamp Responsive Web Design Certification**
+  - Responsive Web Development
+  - HTML
+  - CSS
+
+---
+
+# Currently Exploring
 
 ```text
-                    CYBERSECURITY
-                         │
-            ┌────────────┼────────────┐
-            ↓            ↓            ↓
-        Networking    Web Security   Linux
-            │            │            │
-            └────────────┼────────────┘
-                         ↓
-                  Ethical Hacking
-                         │
-                         ↓
-                    AI / ML
-                         │
-          ┌──────────────┼──────────────┐
-          ↓              ↓              ↓
-     Deep Learning      LLMs        AI Agents
-          │              │              │
-          └──────────────┼──────────────┘
-                         ↓
-               Real-World Projects 
+Artificial Intelligence
+        │
+        ├── Machine Learning
+        ├── Generative AI
+        ├── Large Language Models
+        ├── RAG
+        └── AI Agents
+
+Cybersecurity
+        │
+        ├── Networking
+        ├── Web Security
+        ├── Linux
+        ├── Ethical Hacking
+        └── Threat Detection
