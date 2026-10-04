@@ -1,216 +1,253 @@
+<div align="center">
+
 👋 Hi, I'm Narottam Kumar
 
-Cybersecurity Enthusiast | AI/LLM Developer | Software Developer | Open Source Contributor
+🔐 Cybersecurity × 🤖 AI/LLMs × 💻 Software Development
 
-I'm a B.Tech student at Lovely Professional University focused on building practical applications at the intersection of Cybersecurity, Artificial Intelligence, and Software Development.
+<p>
+  <a href="https://github.com/NarottamKumar01">
+    <img src="https://img.shields.io/badge/GitHub-NarottamKumar01-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/narottam-kumar-9a0b2730b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Narottam%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:narottam.bxr8845@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
 
-I learn by building real-world projects, exploring emerging technologies, participating in open-source programs, and working on practical cybersecurity and AI applications.
+B.Tech Student at Lovely Professional University
 
-🚀 About Me
+I build practical applications that combine intelligent systems, software engineering, and cybersecurity.
 
-🎓 B.Tech student at Lovely Professional University
+</div>
 
-🔐 Interested in Cybersecurity, Ethical Hacking, Web Security, and Threat Detection
+🧠 About Me
 
-🤖 Building applications with Generative AI, LLMs, RAG, and AI Agents
+I'm a B.Tech student at Lovely Professional University interested in building practical solutions around Cybersecurity, Artificial Intelligence, and Software Development.
 
-🧠 Exploring Machine Learning, Computer Vision, OCR, and intelligent automation
+My learning style is simple: build → break → understand → improve.
 
-🐍 Strong focus on Python-based application development
+I'm currently exploring:
 
-🌐 Interested in Web Development, APIs, and Software Engineering
+🔐 Cybersecurity, ethical hacking, web & network security
 
-🌱 Continuously learning through projects, labs, hackathons, and open-source contribution
+🤖 Generative AI, LLMs, RAG, prompt engineering & AI agents
 
-🛠️ Technical Skills
+🧠 Machine Learning, Computer Vision & OCR
+
+🐍 Python application development and APIs
+
+🌱 Open source, hackathons and real-world projects
+
+⚡ Tech Stack
 
 Languages
 
-Python C++ C JavaScript TypeScript SQL HTML CSS
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</p>
 
-AI / Machine Learning
+AI / ML
 
-Generative AI LLMs RAG Prompt Engineering AI Agents NLP Machine Learning Computer Vision OCR
+<p>
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square">
+<img src="https://img.shields.io/badge/LLMs-6C47FF?style=flat-square">
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square">
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square">
+<img src="https://img.shields.io/badge/OCR-444444?style=flat-square">
+</p>
 
 Cybersecurity
 
-Ethical Hacking Web Security Network Security Threat Detection CTF OSINT Linux
+<p>
+<img src="https://img.shields.io/badge/Ethical%20Hacking-2F3136?style=flat-square">
+<img src="https://img.shields.io/badge/Web%20Security-CC0000?style=flat-square">
+<img src="https://img.shields.io/badge/Network%20Security-00618A?style=flat-square">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white">
+<img src="https://img.shields.io/badge/OSINT-222222?style=flat-square">
+</p>
 
-Frameworks & Technologies
+Frameworks & Tools
 
-Flask React.js Streamlit REST APIs LangChain BM25 Vector Databases Google Gemini API
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+</p>
 
-Tools & Platforms
+🚀 Featured Projects
 
-Git GitHub VS Code Linux Kali Linux
+<table>
+<tr>
+<td width="50%" valign="top">
 
-⭐ Featured Projects
+📄 DocSensei
 
-📄 DocSensei — Adaptive RAG Document Assistant
+Adaptive RAG Document Assistant
 
-An enterprise-style document intelligence system for answering questions from multiple uploaded documents.
+Multi-document intelligence system supporting PDF, DOCX, PPTX and TXT with grounded responses and source citations.
 
-Highlights:
-
-Multi-document support for PDF, DOCX, PPTX, and TXT
-
-Hybrid Dense + BM25 retrieval
-
-Cross-encoder reranking and contextual compression
-
-OCR fallback for text extraction
-
-Conversational memory, query rewriting, and summarization
-
-Page- and file-level source citations
-
-Tech: Python LLMs RAG LangChain BM25 OCR Vector Database
-
-🔗 View Repository
-
-🛡️ CyberSheild AI — AI-Powered Cybersecurity Platform
-
-An AI-driven platform designed to analyze and explain common digital threats.
-
-Highlights:
-
-Phishing URL and suspicious website analysis
-
-Scam email/SMS analysis
-
-Malicious QR-code analysis
-
-AI-powered risk assessment
-
-Generative AI, Machine Learning, Computer Vision, and OCR
-
-Security recommendations and threat explanations
-
-Tech: Python Generative AI Machine Learning Computer Vision OCR Cybersecurity
+Built with:
+Python LLMs RAG LangChain BM25 OCR Vector DB
 
 🔗 View Repository
 
-🧠 QuizMind AI — AI-Powered Quiz Generator
+</td>
 
-An AI-powered learning application that generates quizzes from educational content.
+<td width="50%" valign="top">
 
-Highlights:
+🛡️ CyberSheild AI
 
-MCQ generation using Google Gemini
+AI-Powered Cybersecurity Platform
 
-Interactive quiz interface
+Analyzes phishing URLs, suspicious websites, scam messages and malicious QR codes using AI/ML-based security analysis.
 
-Backend processing with Flask
-
-Automated educational content generation
-
-Tech: Python Flask Google Gemini API Generative AI
+Built with:
+Python GenAI ML Computer Vision OCR
 
 🔗 View Repository
 
-🔑 KeyScope — Keyboard Event Security Demonstration
+</td>
+</tr>
 
-An educational cybersecurity project demonstrating keyboard-event monitoring and security analysis in a controlled environment.
+<tr>
+<td width="50%" valign="top">
 
-Highlights:
+🧠 QuizMind AI
 
-Windows keyboard-event monitoring
+AI-Powered Quiz Generator
 
-Low-Level Keyboard Hooks and asynchronous key-state polling
+Generates MCQs from educational content using Google Gemini with an interactive quiz workflow.
 
-Browser-based monitoring dashboard
-
-Key-frequency analysis and monitoring controls
-
-Security-focused detection features
-
-Tech: Python JavaScript Flask Windows API HTML CSS
+Built with:
+Python Flask Gemini API Generative AI
 
 🔗 View Repository
+
+</td>
+
+<td width="50%" valign="top">
+
+🔑 KeyScope
+
+Keyboard Event Security Demonstration
+
+Controlled cybersecurity project demonstrating keyboard-event monitoring, event analysis and security-focused visualization.
+
+Built with:
+Python Flask JavaScript Windows API
+
+🔗 View Repository
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 💰 Expenses Tracker
 
-A full-stack personal finance application for managing expenses, income, budgets, savings goals, and financial reports.
+Personal Finance Web Application
 
-Tech: Python Flask SQLite JavaScript
+Tracks expenses, income, budgets, savings goals and financial reports through a full-stack web application.
+
+Built with:
+Python Flask SQLite JavaScript
 
 🔗 View Repository
+
+</td>
+
+<td width="50%" valign="top">
 
 🎓 Student Result Management System
 
-A Python-based application for managing student records, marks, grades, and academic results.
+Academic Management Application
 
-Tech: Python
+Manages student records, marks, grades and academic results in a structured application.
 
-🔗 View Repository
-
-💼 Experience & Programs
-
-IIT Jammu — Cybersecurity Summer Program
-
-Participated in a cybersecurity-focused summer program covering:
-
-Linux Networking Ethical Hacking Cybersecurity Tools Security Labs
+Built with:
+Python
 
 🔗 View Repository
 
-GirlScript Summer of Code 2026
+</td>
+</tr>
+</table>
 
-Participated as an open-source contributor, working with collaborative software development and GitHub-based projects.
+🏆 Experience & Open Source
+
+🔐 IIT Jammu — Cybersecurity Summer Program
+
+Practical exposure to:
+
+Linux Networking Ethical Hacking Security Tools Security Labs
+
+🔗 View Learning Repository
+
+🌍 GirlScript Summer of Code 2026
+
+Open-source contributor participating in collaborative development and GitHub-based projects.
 
 📜 Certifications
 
 Microsoft Azure AI Essentials Professional Certificate
 
-Machine Learning
-
-Azure AI Studio
-
-Generative AI
-
 Career Essentials in GitHub Professional Certificate
-
-GitHub
 
 freeCodeCamp Responsive Web Design Certification
 
-HTML
-
-CSS
-
-Responsive Web Development
-
-🎯 Current Focus
-
-Artificial Intelligence
-├── Machine Learning
-├── Generative AI
-├── Large Language Models
-├── RAG
-└── AI Agents
-
-Cybersecurity
-├── Networking
-├── Web Security
-├── Linux
-├── Ethical Hacking
-└── Threat Detection
-
-📊 GitHub
+📈 GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NarottamKumar01&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarottamKumar01&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=NarottamKumar01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarottamKumar01&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
-🤝 Let's Connect
+🎯 What I'm Working Toward
 
-💼 LinkedIn
+        🤖 ARTIFICIAL INTELLIGENCE
+              │
+      ┌───────┼────────┐
+      │       │        │
+     ML      LLMs     RAG
+      │       │        │
+      └───────┼────────┘
+              │
+          AI AGENTS
 
-🐙 GitHub
+        🔐 CYBERSECURITY
+              │
+      ┌───────┼────────┐
+      │       │        │
+   Network   Web     Threat
+   Security Security Detection
+              │
+        Ethical Hacking
 
-📧 Email
+💬 Let's Connect
 
 <p align="center">
-  <b>Building. Learning. Securing. 🤝</b>
+  <a href="https://github.com/NarottamKumar01">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/narottam-kumar-9a0b2730b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+<p align="center">
+  <i>Build. Learn. Secure. Repeat. 🚀</i>
 </p>
