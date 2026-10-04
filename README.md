@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 🎓 **B.Tech Student at Lovely Professional University**
 
@@ -42,7 +42,7 @@ I learn by creating real projects, experimenting with new technologies, solving 
 - 🐍 Python Application Development & APIs
 - 🌍 Open Source, Hackathons & Collaborative Development
 
-> **Build → Break → Understand → Improve → Repeat 🚀**
+> Build → Break → Understand → Improve → Repeat 
 
 ---
 
