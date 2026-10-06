@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Narottam Kumar
+#  Hey, I'm Narottam Kumar
 
-### 🔐 Cybersecurity • 🤖 Artificial Intelligence • 💻 Software Development
+###  Cybersecurity •  Artificial Intelligence •  Software Development
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;AI%2FLLM+Developer;Python+Developer;Open+Source+Contributor;Always+Building%2C+Learning+%26+Exploring" alt="Typing SVG" />
